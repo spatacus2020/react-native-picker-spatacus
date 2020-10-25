@@ -1,0 +1,17 @@
+{
+  "name": "react-native-picker-spatacus",
+  "version": "1.0.0",
+  "description": "A Native Picker with high performance.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spatacus2020/react-native-picker-spatacus.git"
+  },
+  "author": "spatacus2020",
+  "license": "MIT",
+  "homepage": "https://github.com/spatacus2020/react-native-picker-spatacus"
+}
